@@ -52,8 +52,8 @@ This project demonstrates the usage of **Hangfire** with **.NET 9**, utilizing *
 ### ▶️ Running Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tasbilek/Hangfire.git
-   cd Hangfire
+   git clone https://github.com/tasbilek/HangFire.git
+   cd HangFire
    ```
 2. Restore the dependencies:
    ```bash
